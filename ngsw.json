@@ -10,7 +10,7 @@
         "https://SteveDevs.github.io/portfolio/0.04ca8e6b1effde4adef4.js",
         "https://SteveDevs.github.io/portfolio/favicon.ico",
         "https://SteveDevs.github.io/portfolio/index.html",
-        "https://SteveDevs.github.io/portfolio/main.d24b1c9e3f57930f5e30.js",
+        "https://SteveDevs.github.io/portfolio/main.9a906570a3c29803b8c7.js",
         "https://SteveDevs.github.io/portfolio/polyfills.ebca834680a6bc9eecc5.js",
         "https://SteveDevs.github.io/portfolio/runtime.c87f68a10297eb81c016.js",
         "https://SteveDevs.github.io/portfolio/styles.0d8f0c11632081906101.css"
@@ -22,6 +22,7 @@
       "installMode": "lazy",
       "updateMode": "prefetch",
       "urls": [
+        "https://SteveDevs.github.io/portfolio/assets/briefcase.png",
         "https://SteveDevs.github.io/portfolio/assets/images/user/abstract-architecture-attractive.jpg",
         "https://SteveDevs.github.io/portfolio/assets/images/user/abstract-architecture-black-and-white.jpg",
         "https://SteveDevs.github.io/portfolio/assets/images/user/abstract-art-artistic.jpg",
@@ -44,6 +45,7 @@
   "dataGroups": [],
   "hashTable": {
     "https://SteveDevs.github.io/portfolio/0.04ca8e6b1effde4adef4.js": "f482660fbe248da39a04ed0e6771e73854ae8e84",
+    "https://SteveDevs.github.io/portfolio/assets/briefcase.png": "e72e2021af63fae0f4803361411fd78565f0e876",
     "https://SteveDevs.github.io/portfolio/assets/images/user/abstract-architecture-attractive.jpg": "50c2fc9010e2f1f08a0a465787eff4903ac2cbff",
     "https://SteveDevs.github.io/portfolio/assets/images/user/abstract-architecture-black-and-white.jpg": "8aa36b0be5ab7026df6b235e9b6370047fb59718",
     "https://SteveDevs.github.io/portfolio/assets/images/user/abstract-art-artistic.jpg": "dcc61843431bd7b70c178121c7ea561118a5fd77",
@@ -60,8 +62,8 @@
     "https://SteveDevs.github.io/portfolio/assets/images/user/cpu.jpg": "fe77c2ae475f9861a46ce1c54d5c144d5a9d8b97",
     "https://SteveDevs.github.io/portfolio/assets/ngx-rocket-logo.png": "0ac53fd27406fe5a36e68285315fb0012e54058e",
     "https://SteveDevs.github.io/portfolio/favicon.ico": "b65083d46bbf63692d5d2cdd69622e6d7ecae317",
-    "https://SteveDevs.github.io/portfolio/index.html": "b4f2b89ef2dfd11bfdef5bd2b8029bd65456da91",
-    "https://SteveDevs.github.io/portfolio/main.d24b1c9e3f57930f5e30.js": "4348add1303eec39af7735de4822f2815a3717b0",
+    "https://SteveDevs.github.io/portfolio/index.html": "f6852ac4cd017dd50f3466af95e3c37bad849433",
+    "https://SteveDevs.github.io/portfolio/main.9a906570a3c29803b8c7.js": "01f8543dae0ee80a5b678e89af32e9cdb68a3423",
     "https://SteveDevs.github.io/portfolio/polyfills.ebca834680a6bc9eecc5.js": "cd961c67a78de23f4dd89026c840fa92c94c4ed7",
     "https://SteveDevs.github.io/portfolio/runtime.c87f68a10297eb81c016.js": "fa89251225d8c2adb7107200c7e0aef4a3a1e5a8",
     "https://SteveDevs.github.io/portfolio/styles.0d8f0c11632081906101.css": "073fe0aa074e625e4b1348d9eb752735e52e71ef"
