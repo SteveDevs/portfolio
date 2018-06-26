@@ -1,0 +1,31 @@
+mat-card {
+    text-align: center;
+}
+
+.portfolio_items {
+    background-image: url("../../../assets/images/user/action-adult-blur.jpg");
+    background-repeat: no-repeat, repeat;
+    background-position-x: center;
+    background-position-y: center;
+    background-size: contain;
+    background-color: antiquewhite;
+}
+
+mat-button-toggle {
+    background-color: rgba(178, 178, 178, 0.8);
+    margin-top: 10%;
+    margin-left: 20%;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+mat-card-content {
+    padding-top: 16px;
+}
+
+.feed {
+    margin: 10%;
+}

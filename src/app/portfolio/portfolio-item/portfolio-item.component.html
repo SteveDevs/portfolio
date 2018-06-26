@@ -1,0 +1,83 @@
+<div class="portfolio_items">
+    <mat-button-toggle (click)="openBackgroundDialog()">Choose background</mat-button-toggle>
+    <mat-button-toggle (click)="chooseLayoutDialog()">Choose Layout</mat-button-toggle>
+    <mat-grid-list cols="3" rowHeight="2:2">
+        <mat-grid-tile>
+
+            <mat-card class="feed">
+                <mat-card-header>
+                    <button matTooltip="Edit" matTooltipPosition="above">
+          <mat-icon>edit</mat-icon>
+
+          </button>
+
+                    <button matTooltip="View portfolio items" matTooltipPosition="above">
+            <mat-icon>pageview</mat-icon>
+            </button>
+                </mat-card-header>
+
+                <mat-card-title>
+                    Natural Images
+                    <mat-card-subtitle>
+                        sub title
+                    </mat-card-subtitle>
+                </mat-card-title>
+                <img mat-card-lg-image src="../../../assets/images/user/bright-countryside.jpg">
+                <mat-card-content>
+                    Lorem Ipsum is simply dummy text
+                </mat-card-content>
+            </mat-card>
+        </mat-grid-tile>
+
+        <mat-grid-tile>
+            <mat-card class="feed">
+                <mat-card-header>
+
+                    <button matTooltip="Edit" matTooltipPosition="above">
+          <mat-icon>edit</mat-icon>
+
+          </button>
+
+                    <button matTooltip="View portfolio items" matTooltipPosition="above">
+            <mat-icon>pageview</mat-icon>
+            </button>
+                </mat-card-header>
+                <mat-card-title>
+                    Astronomy
+                    <mat-card-subtitle>
+                        sub title
+                    </mat-card-subtitle>
+                </mat-card-title>
+                <img mat-card-lg-image src="../../../assets/images/user/art-astronomy-atmosphere.jpg">
+                <mat-card-content>
+                    Lorem Ipsum is simply dummy text
+                </mat-card-content>
+            </mat-card>
+        </mat-grid-tile>
+        <mat-grid-tile>
+
+            <mat-card class="feed">
+                <mat-card-header>
+                    <button matTooltip="Edit" matTooltipPosition="above" (click)="openEditDialog()">
+          <mat-icon>edit</mat-icon>
+
+          </button>
+
+                    <button matTooltip="View portfolio items" matTooltipPosition="above">
+            <mat-icon>pageview</mat-icon>
+            </button>
+                </mat-card-header>
+                <mat-card-title>
+                    City
+                    <mat-card-subtitle>
+                        sub title
+                    </mat-card-subtitle>
+                </mat-card-title>
+                <img mat-card-lg-image src="../../../assets/images/user/asia-bicycle-bikes.jpg">
+                <mat-card-content>
+                    Lorem Ipsum is simply dummy text
+                </mat-card-content>
+            </mat-card>
+        </mat-grid-tile>
+    </mat-grid-list>
+</div>

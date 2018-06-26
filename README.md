@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # portfolio
 
 This project was generated with [ngX-Rocket](https://github.com/ngx-rocket/generator-ngx-rocket/)
@@ -136,3 +137,6 @@ Development, build and quality processes are based on [angular-cli](https://gith
 - [Updating dependencies and tools](docs/updating.md)
 - [Using a backend proxy for development](docs/backend-proxy.md)
 - [Browser routing](docs/routing.md)
+=======
+# portfolio
+>>>>>>> origin/master

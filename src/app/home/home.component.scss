@@ -1,0 +1,55 @@
+.container {
+    text-align: center;
+    padding: 1em;
+}
+
+.logo {
+    width: 150px;
+    margin: 0 auto;
+}
+
+q {
+    font-style: italic;
+    quotes: "« " " »";
+}
+
+.feed {
+    margin: 10%;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+.truncate {
+    padding-top: 16px;
+    width: 350px;
+    height: 50px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+mat-card-footer {
+    font-style: italic;
+    color: rgba(0, 0, 0, 0.5);
+}
+
+#canvas {
+    max-width: 40%;
+    display: inline-block;
+}
+
+#canvas_pie {
+    max-width: 40%;
+    display: inline-block;
+    float: right;
+}
+
+.header-text {
+    font-family: Roboto, "Helvetica Neue", sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    float: left;
+}
